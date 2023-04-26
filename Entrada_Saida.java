@@ -15,7 +15,8 @@ public class Entrada_Saida{
 
         System.out.println(a);
         System.out.println(b);
-
+        
+        input.close();
         // InputMismatchException --->> Separador decimal do sistema é representado por uma vírgula e não um ponto. 
     }
 }
