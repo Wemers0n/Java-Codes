@@ -1,1 +1,1 @@
-# java study codes
+# Solving Exercises in Java
