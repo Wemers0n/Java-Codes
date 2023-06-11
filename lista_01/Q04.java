@@ -1,3 +1,4 @@
+package lista_01;
 // 4. Leia o valor do dólar e um valor em dólar, calcule e escreva o equivalente em real (R$).
 import java.util.Scanner;
 

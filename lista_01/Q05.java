@@ -1,3 +1,4 @@
+package lista_01;
 // 5. Leia um número inteiro (3 dígitos), calcule e escreva a soma de seus elementos (C + D + U).
 import java.util.Scanner;
 

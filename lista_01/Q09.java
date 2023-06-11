@@ -1,3 +1,4 @@
+package lista_01;
 // 9. Leia 2 números (A, B) e escreva-os em ordem inversa (B, A).
 
 import java.util.Scanner;

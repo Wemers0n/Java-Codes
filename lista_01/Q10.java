@@ -1,3 +1,4 @@
+package lista_01;
 // 10. Leia 2 números inteiros, calcule e escreva o quociente e o resto da divisão do 1o pelo 2o.
 
 import java.util.Scanner;

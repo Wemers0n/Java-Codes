@@ -1,3 +1,4 @@
+package lista_01;
 // 01. Leia uma velocidade em m/s, calcule e escreva esta velocidade em km/h. (Vkm/h = Vm/s * 3.6)
 
 import java.util.Scanner;

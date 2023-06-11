@@ -1,3 +1,4 @@
+package lista_01;
 // 12. Leia o salário de um trabalhador e escreva seu novo salário com um aumento de 25%.
 
 import java.util.Scanner;

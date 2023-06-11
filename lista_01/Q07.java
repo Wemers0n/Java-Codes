@@ -1,3 +1,4 @@
+package lista_01;
 // 7. Leia 3 números, calcule e escreva a soma dos 2 primeiros e a diferença entre os 2 últimos.
 import java.util.Scanner;
 
