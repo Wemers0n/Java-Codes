@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Matriz {
@@ -15,13 +16,17 @@ public class Matriz {
         }
 
         // Exibindo a matriz preenchida
-        System.out.println("Matriz preenchida:");
-        for (i = 0; i < 3; i++) {
-            for (j = 0; j < 3; j++) {
-                System.out.print(matriz[i][j] + " ");
-            }
-            System.out.println();
+        // System.out.println("Matriz preenchida:");
+        // for (i = 0; i < 3; i++) {
+        //     for (j = 0; j < 3; j++) {
+        //         System.out.print(matriz[i][j] + " ");
+        //     }
+        //     System.out.println();
+        // }
+        for(int[] m: matriz){
+            System.out.println(Arrays.toString(m));
         }
+
         scanner.close();
     }
 }

@@ -17,9 +17,9 @@ class Testes {
     // System.out.println(num1 + num2);
     // System.out.println(num3 + num4);
 
-    double resultuda = "+".equals(op) ? num1 + num2 : 0;
+    double resultado = "+".equals(op) ? num1 + num2 : 0;
 
-    System.out.println("Resultado: "+ resultuda);
+    System.out.println("Resultado: "+ resultado);
 
   }
 }

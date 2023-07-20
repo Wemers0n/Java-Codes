@@ -1,0 +1,336 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Sistema",
+            "request": "launch",
+            "mainClass": "POO.Composicao.Desafio.Sistema",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "POO.Heranca.Teste",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Condicionais",
+            "request": "launch",
+            "mainClass": "Condicionais",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Entrada_Saida",
+            "request": "launch",
+            "mainClass": "Entrada_Saida",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Matriz",
+            "request": "launch",
+            "mainClass": "Matriz",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Repeticao_For",
+            "request": "launch",
+            "mainClass": "Repeticao_For",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Repeticao_While",
+            "request": "launch",
+            "mainClass": "Repeticao_While",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Testes",
+            "request": "launch",
+            "mainClass": "Testes",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Vetores",
+            "request": "launch",
+            "mainClass": "Vetores",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q01",
+            "request": "launch",
+            "mainClass": "lista_01.Q01",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q02",
+            "request": "launch",
+            "mainClass": "lista_01.Q02",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q03",
+            "request": "launch",
+            "mainClass": "lista_01.Q03",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q04",
+            "request": "launch",
+            "mainClass": "lista_01.Q04",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q05",
+            "request": "launch",
+            "mainClass": "lista_01.Q05",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q06",
+            "request": "launch",
+            "mainClass": "lista_01.Q06",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q07",
+            "request": "launch",
+            "mainClass": "lista_01.Q07",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q08",
+            "request": "launch",
+            "mainClass": "lista_01.Q08",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q09",
+            "request": "launch",
+            "mainClass": "lista_01.Q09",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q10",
+            "request": "launch",
+            "mainClass": "lista_01.Q10",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q11",
+            "request": "launch",
+            "mainClass": "lista_01.Q11",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q12",
+            "request": "launch",
+            "mainClass": "lista_01.Q12",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q13",
+            "request": "launch",
+            "mainClass": "lista_01.Q13",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q14",
+            "request": "launch",
+            "mainClass": "lista_01.Q14",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q15",
+            "request": "launch",
+            "mainClass": "lista_01.Q15",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q16",
+            "request": "launch",
+            "mainClass": "lista_01.Q16",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q17",
+            "request": "launch",
+            "mainClass": "lista_01.Q17",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q01(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q01",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q02(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q02",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q03(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q03",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q04(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q04",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q05(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q05",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q06(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q06",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q07(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q07",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q08(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q08",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q09(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q09",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q10(1)",
+            "request": "launch",
+            "mainClass": "lista_02.Q10",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q01(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q01",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q02(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q02",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q03(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q03",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q04(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q04",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q05(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q05",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q06(2)",
+            "request": "launch",
+            "mainClass": "lista_03.Q06",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q01(3)",
+            "request": "launch",
+            "mainClass": "lista_04.Q01",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q02(3)",
+            "request": "launch",
+            "mainClass": "lista_04.Q02",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Q03(3)",
+            "request": "launch",
+            "mainClass": "lista_04.Q03",
+            "projectName": "Java_Codes_5e5e2f97"
+        }
+    ]
+}
