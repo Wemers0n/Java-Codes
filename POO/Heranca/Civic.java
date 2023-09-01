@@ -3,7 +3,6 @@ package POO.Heranca;
 public class Civic extends Carro {
     int portas;
 
-    
     public Civic(String nome, int potas) {
         super(nome);
         this.portas = potas;

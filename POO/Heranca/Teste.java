@@ -9,6 +9,9 @@ public class Teste {
         
         c1.Acelerar();
         c1.Frear();
+
+        c1.LigarArC();
+        System.out.println(c1.ligarAr);
         
         System.out.println(c1.getAno());
         c1.anoCarSet(2022);
@@ -16,4 +19,5 @@ public class Teste {
         System.out.println(c1.nomeCar());
         System.out.println(c1.portas);
     }
+
 }

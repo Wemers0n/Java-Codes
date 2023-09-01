@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Lambdas_.Teste",
+            "projectName": "Java_Codes_5e5e2f97"
+        },
+        {
+            "type": "java",
             "name": "Sistema",
             "request": "launch",
             "mainClass": "POO.Composicao.Desafio.Sistema",
